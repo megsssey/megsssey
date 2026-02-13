@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I am Meghna Sandi 👋  
 
-<!--
-**megsssey/megsssey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **AI & ML Engineer**  
+📚 BE in Artificial Intelligence & Machine Learning  
+🏫 BMS Institute of Technology & Management, Bangalore  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Notable Projects  
+
+- 🚑 **AI-Based Dynamic Ambulance Routing & Green Corridor Optimization**  
+- ♿ **Smart Autonomous Wheelchair using YOLO & Customized A\***  
+- 🧠 **Early Diabetes Prediction using Machine Learning**  
+- 📄 **RAG-based Content Summarization System (Whisper + LLMs)**  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages & Tools:**  
+`Python` | `Scikit-learn` | `PyTorch` | `OpenCV` | `Flask` | `SQL`  
+
+**Domains:**  
+Machine Learning | Deep Learning | NLP | LLMs | Computer Vision | AI for Healthcare  
+
+---
+
+## 📖 Research Interests  
+
+- Applied AI in Healthcare  
+- Intelligent Transportation Systems  
+- AI for Social Good  
+- Optimization & Autonomous Systems  
+
+---
+![Meghna's GitHub stats](https://github-readme-stats.vercel.app/api?username=megsssey&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)
+
+⭐ Always open to collaborating on impactful AI projects!
