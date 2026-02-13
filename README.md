@@ -33,6 +33,5 @@ Machine Learning | Deep Learning | NLP | LLMs | Computer Vision | AI for Healthc
 - Optimization & Autonomous Systems  
 
 ---
-![Meghna's GitHub stats](https://github-readme-stats.vercel.app/api?username=megsssey&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)
 
 ⭐ Always open to collaborating on impactful AI projects!
