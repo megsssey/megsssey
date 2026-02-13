@@ -30,7 +30,7 @@ Machine Learning | Deep Learning | NLP | LLMs | Computer Vision | AI for Healthc
 - Applied AI in Healthcare  
 - Intelligent Transportation Systems  
 - AI for Social Good  
-- Optimization & Autonomous Systems  
+- [Optimization & Autonomous Systems](https://ieeexplore.ieee.org/document/11337683)  
 
 ---
 
